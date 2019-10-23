@@ -9,7 +9,7 @@ def fizzbuzz(int)
 
   elseif int % 5 || 3 == 0
 
-else int % 5 == 0
+elsetrue int % 5 == 0
   "Buzz"
 
 end
